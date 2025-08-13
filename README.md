@@ -35,3 +35,5 @@ Em transição de carreira para área de tecnologia, estudante de Análise e Des
 ---
 
 📌 Este projeto faz parte do meu portfólio pessoal. Feedbacks são sempre bem-vindos!
+
+acesse meu linkedin : https://www.linkedin.com/in/anderson-souza-ab9701337/
